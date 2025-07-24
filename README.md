@@ -16,11 +16,6 @@ I go by **SohamXYZ** across the web — a developer, automation architect, and f
 
 ---
 
-## 📌 Featured Projects
-- [Twitter Thread Creator](https://github.com/SohamXYZcom/TwitterThreadCreator) – turns articles/videos into viral Twitter threads
-
----
-
 ## 🔗 Find Me Elsewhere
 - 🌐 Website: [sohamxyz.com](https://sohamxyz.com)
 - 🧑‍💼 Fiverr: [fiverr.com/sohamxyz](https://fiverr.com/sohamxyz)
